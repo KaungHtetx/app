@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Redirect</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+            if (/android/i.test(userAgent)) {
+                // Redirect to Google Play Store
+                window.location.href = "https://play.google.com/store/apps/details?id=com.momoney.subscriber.prod&pli=1";
+            } else if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+                // Redirect to Apple App Store
+                window.location.href = "https://apps.apple.com/us/app/momoney-wallet/id1588383850";
+            } else {
+                // Redirect to a fallback page (e.g., your website)
+                window.location.href = "https://www.mo.com.mm/download-apps/";
+            }
+        });
+    </script>
+</head>
+<body>
+    <p>Redirecting to the appropriate app store...</p>
+</body>
+</html>
