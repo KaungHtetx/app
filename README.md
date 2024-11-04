@@ -1,2 +1,0 @@
-# App
-Redirect Download Link
