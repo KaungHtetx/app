@@ -1,5 +1,4 @@
 ---
-icon: square-arrow-right
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
@@ -18,11 +17,9 @@ layout:
     visible: true
 ---
 
-# Getting Start
+# 📗 Getting Start
 
-### Introduction to MoMoney Wallet App
-
-MoMoney (momoney.com.mm) is a digtal mobile wallet and financial services app in Myanmar, offering convenient digital payments, money transfers, bill payments, and more. It is designed to provide a secure, fast, and cashless payment solution for individuals and businesses.
+MoMoney is a digital mobile wallet and financial services app in Myanmar, offering convenient digital payments, money transfers, bill payments, and more. It is designed to provide a secure, fast, and cashless payment solution for individuals and businesses<mark style="color:blue;">.</mark>
 
 #### **Key Features of MoMoney Wallet:**
 

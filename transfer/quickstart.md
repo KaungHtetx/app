@@ -12,6 +12,8 @@ description: >-
 ### **Tap the “Send Money”**&#x20;
 
 On the home page of the MoMoney app, tap the “Send Money” icon
+
+
 {% endstep %}
 
 {% step %}
@@ -51,6 +53,14 @@ Type your 6-digit PIN to authorize the transaction.
 The user will see a “Transfer successful” message with the transaction code on the current page.
 {% endstep %}
 {% endstepper %}
+
+<figure><img src="../.gitbook/assets/Untitled design_20250504_031707_0000.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Untitled design_20250504_032245_0000.png" alt=""><figcaption></figcaption></figure>
+
+<div data-full-width="true"><figure><img src="../.gitbook/assets/Untitled design_20250504_031513_0000.png" alt=""><figcaption></figcaption></figure></div>
+
+<div data-full-width="true"><figure><img src="../.gitbook/assets/Untitled design_20250504_031054_0000.png" alt=""><figcaption></figcaption></figure></div>
 
 **Important Notes:**
 

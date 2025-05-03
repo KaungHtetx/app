@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Getting Start](README.md)
+* [📗 Getting Start](README.md)
   * [Registration](readme/registration.md)
   * [Self-Bank Linkage](readme/self-bank-linkage.md)
 
