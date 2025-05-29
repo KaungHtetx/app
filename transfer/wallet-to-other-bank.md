@@ -1,13 +1,9 @@
 ---
-description: >-
-  This feature allows users to transfer money from their MoMoney wallet to a
-  bank account in one of the available banks (KBZ, AYA, CB, UAB, YOMA). Below
-  are the steps to complete an interbank transfer:
 layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -18,55 +14,15 @@ layout:
 
 # Wallet to Other Bank
 
-MoMoney to Other Bank (Interbank Transfer)
+Open the Subscriber app and log in with your credentials.
 
-{% stepper %}
-{% step %}
-### **Open MoMoney and Log in**
+1.  Tab "**Send Money**" icon from the home page\
 
-Launch the MoMoney app and log in with your credentials.
-{% endstep %}
 
-{% step %}
-### **Send Money**
-
-On the Home Page, select the "Send Money" option.
-{% endstep %}
-
-{% step %}
-### Interbank Transfer
-
-Choose the "Interbank Transfer" option and select your desired bank (KBZ, AYA, CB, UAB, YOMA).
-{% endstep %}
-
-{% step %}
-### **Enter Details**
-
-* **Bank Account Number**: Enter the recipient's account number.
-* **Account Holder Name**: Provide the recipient's name.
-* **Account Holder Phone**: Enter the phone number.
-* **Amount**: Specify the transfer amount.
-* **Branch**: Select the branch from the drop-down list.
-{% endstep %}
-
-{% step %}
-### Preview
-
-* Review the transaction details on the preview screen.
-* Enter your 6-digit PIN.
-* Click "Confirm" to finalize the transaction.
-{% endstep %}
-
-{% step %}
-### **Transaction Confirmation**:
-
-* **SMS Notification**: A confirmation SMS is sent to your phone.
-* **In-App Notification**: A notification within the app confirms the transaction.
-* **Success Page**: View the transaction success page to ensure completion.
-{% endstep %}
-{% endstepper %}
-
-{% hint style="info" %}
-**Additional Feature**: **Save Beneficiary Information**: Users can save beneficiary information for future transactions and choose the saved beneficiary for the next transfer.
-{% endhint %}
+    <div align="center"><figure><img src="../.gitbook/assets/Untitled design_20250504_031054_0000.png" alt=""><figcaption></figcaption></figure></div>
+2. Choose "**Bank Transfer**" section
+3. Input the required bank information and tab "**Next**"
+4. Review the transaction details on the preview page and tab "**Continue**"&#x20;
+5. Input your 6-digit PIN to confirm the transaction.
+6. Once the PIN is verified, the transaction will be completed successfully.
 
