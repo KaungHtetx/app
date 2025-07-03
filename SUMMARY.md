@@ -10,9 +10,8 @@
 * [Wallet to Non-Wallet](transfer/publish-your-docs.md)
 * [Wallet to Shwe Bank](transfer/wallet-to-shwe-bank.md)
 * [Wallet to Other Bank](transfer/wallet-to-other-bank.md)
-* [Wallet to Other Bank](transfer/wallet-to-other-bank-1.md)
 * [Shwe Bank to Wallet](transfer/shwe-bank-to-wallet.md)
-* [Card to Wallet](transfer/card-to-wallet.md)
+* [MPU Card in](transfer/mpu-card-in.md)
 * [Request Money](transfer/request-money.md)
 
 ## Service
@@ -23,7 +22,6 @@
 ***
 
 * [Merchant Pay](merchant-pay.md)
-* [Bill Payment](bill-payment.md)
 * [Online Merchant Payment](online-merchant-payment.md)
 * [Scan QR](scan-qr.md)
 

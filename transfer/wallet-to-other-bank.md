@@ -1,28 +1,24 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Wallet to Other Bank
 
-Open the Subscriber app and log in with your credentials.
+#### **User Flow Summary (as provided):**
 
-1.  Tab "**Send Money**" icon from the home page\
-
-
-    <div align="center"><figure><img src="../.gitbook/assets/Untitled design_20250504_031054_0000.png" alt=""><figcaption></figcaption></figure></div>
-2. Choose "**Bank Transfer**" section
-3. Input the required bank information and tab "**Next**"
-4. Review the transaction details on the preview page and tab "**Continue**"&#x20;
-5. Input your 6-digit PIN to confirm the transaction.
-6. Once the PIN is verified, the transaction will be completed successfully.
+1. **Login** to Subscriber App
+2. **Home Page** → Tap **Send Money**
+3. Select **Interbank Transfer**
+4. Choose **Desired Bank** (with search function)
+5. Select **Branch** from dropdown
+6. Input:
+   * **Bank Account Number**
+   * **Account Holder Name**
+   * **Account Holder Phone**
+   * **Amount**
+   * **Remark** (optional)
+7. Tap **Next**
+8. **Preview Screen**: Show transaction details + fee
+9. Tap **Confirm**
+10. **Authenticate** with Wallet PIN
+11. Show **Transaction Success Page**
+12. **In-App Notification** to Initiator (after CBM Net confirmation)
+13. **SMS** to Account Holder (after CBM Net confirmation)
+14. Option to **Save Beneficiary** for future use
 

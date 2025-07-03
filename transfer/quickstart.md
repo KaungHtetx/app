@@ -9,62 +9,39 @@ description: >-
 
 {% stepper %}
 {% step %}
-### **Tap the “Send Money”**&#x20;
+Thanks, Kaung Htet Min! Here's a clean and structured markdown version of the **Interbank Fast Transfer flow** for your GitBook documentation:
 
-On the home page of the MoMoney app, tap the “Send Money” icon
+***
 
+### 💸 Interbank Fast Transfer – MoMoney App <a href="#interbankfasttransfermomoneyapp" id="interbankfasttransfermomoneyapp"></a>
 
-{% endstep %}
+#### Step-by-Step Guide <a href="#stepbystepguide" id="stepbystepguide"></a>
 
-{% step %}
-### **Choose “Wallet User”**
+1. **Tap “Send Money”**
+   * On the home page of the MoMoney app, tap the **Send Money** icon.
+2. **Choose “Wallet User”**
+   * Select and click the **Wallet User** option.
+3. **Enter Receiver Details**
+   * **Phone Number**: Input the receiver's phone number or select from your phone contacts.
+   * **Amount**: Specify the amount to transfer.
+4. **Review Information**
+   * Review the entered details and press the **Next** button.
+5. **Preview Transaction**
+   * Check the transaction details on the preview screen.
+   * Press the **Confirm** button.
+6. **Enter PIN**
+   * Type your **6-digit PIN** to authorize the transaction.
+7. **Transfer Successful**
+   * A **Transfer Successful** message will appear.
+   * The transaction code will be displayed on the confirmation screen.
 
-Select and click the “Wallet User” option.
-{% endstep %}
-
-{% step %}
-### **Enter Receiver Details**:
-
-* **Type Receiver Phone Number**: Input the receiver's phone number or choose the number from your phone contacts.
-* **Enter Amount**: Specify the amount you want to transfer.
-{% endstep %}
-
-{% step %}
-### **Review Information**:&#x20;
-
-Review the entered information and press the “Next” button.
-{% endstep %}
-
-{% step %}
-### **Preview Transaction**
-
-Check the transaction details on the preview screen and press the “Confirm” button.
-{% endstep %}
-
-{% step %}
-### Enter PIN
-
-Type your 6-digit PIN to authorize the transaction.
-{% endstep %}
-
-{% step %}
-### Transfer Successful
-
-The user will see a “Transfer successful” message with the transaction code on the current page.
+***
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../.gitbook/assets/Untitled design_20250504_031707_0000.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Untitled design_20250504_032245_0000.png" alt=""><figcaption></figcaption></figure>
-
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Untitled design_20250504_031513_0000.png" alt=""><figcaption></figcaption></figure></div>
-
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Untitled design_20250504_031054_0000.png" alt=""><figcaption></figcaption></figure></div>
-
 **Important Notes:**
 
-* ✅ Both sender and recipient must have active MoMoney accounts
-* 💰 Minimum balance must cover amount + fees
-* 🔒 Never share your PIN with anyone
-* 📱 Save transaction code for reference.
+* &#x20;Both sender and recipient must have active MoMoney accounts
+* &#x20;Minimum balance must cover amount + fees
+* Never share your PIN with anyone
+* Save transaction code for reference.

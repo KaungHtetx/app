@@ -24,7 +24,7 @@ description: 'Here’s a step-by-step guide on how to request money from another
 
 #### **Important Notes**
 
-✔ The recipient must have an **active MoMoney account** linked to the phone number.\
-✔ If the recipient declines or doesn’t respond, the request will expire.\
-✔ You can check pending requests in the **"Transactions"** or **"Request History"** section.
+The recipient must have an **active MoMoney account** linked to the phone number.\
+If the recipient declines or doesn’t respond, the request will expire.\
+You can check pending requests in the **"Transactions"** or **"Request History"** section.
 

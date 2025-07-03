@@ -60,7 +60,7 @@ description: >-
 
 #### **Tips**
 
-✔ Fixed vouchers (e.g., `HOTDEAL`) work only at **participating merchants**.\
-✔ Dynamic vouchers apply discounts **before** the merchant scans.\
-✔ Check **"My Vouchers"** for expired/used codes.
+Fixed vouchers (e.g., `HOTDEAL`) work only at **participating merchants**.\
+Dynamic vouchers apply discounts **before** the merchant scans.\
+Check **"My Vouchers"** for expired/used codes.
 

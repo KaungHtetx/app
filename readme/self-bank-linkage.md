@@ -2,21 +2,6 @@
 
 "This feature allows subscribers to link their bank account with the Subscriber app for seamless transactions. Below are the steps to complete the bank linkage process"
 
-:joy:
-
-* \+&#x20;
-
-1..
-
-1. i
-2. g
-3. u
-4.
-
-
-
-
-
 1. **Login to Subscriber App**: Open the Subscriber app and log in with your credentials.
 2. **Go to 'My Wallet'**: Navigate to the 'My Wallet' section.
 3. **Click Bank Linkage**: Select the "Bank Linkage" option.

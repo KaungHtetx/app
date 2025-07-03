@@ -6,35 +6,28 @@ description: >-
 
 # Online Merchant Payment
 
-Here's a detailed description of the "Online Merchant (Pay with MoMoney on E-commerce Website)" feature:
+### 🔁 **User Flow Breakdown**
 
-**By Scan QR Code Method**
+#### &#x20;**Method 1: QR Code Scan**
 
-1. **Open E-commerce Website**: Navigate to the e-commerce website where you want to make a purchase.
-2. **Choose Route or Product Item**: Select the route or product item you wish to purchase.
-3. **View Total Amount**: The total amount for the purchase will be displayed on the website.
-4. **Choose Payment Method**: Select the payment method option.
-5. **Choose to Pay with “Mo Money”**: Select "Mo Money" as the payment method.
-6. **QR Code Display**: A QR code will be displayed on the third-party side (e-commerce website).
-7. **Open “Mo Money” App**: Open the Mo Money app on your mobile device.
-8. **Click “Scan QR” Button**: Tap the “Scan QR” button in the Mo Money app and scan the QR code displayed on the e-commerce website.
-9. **Transaction Details**: Go to the Transaction detail screen in the Mo Money app.
-10. **Click “Accept” Button**: Click the “Accept” button to proceed with the payment.
-11. **Enter PIN**: Input your 6-digit PIN to confirm the transaction.
-12. **Emoney Deduction**: The e-money will be deducted from your Mo Money wallet.
+1. User visits e-commerce website.
+2. Selects product/route and views total amount.
+3. Chooses **"MoMoney"** as payment method.
+4. Website displays a **QR Code**.
+5. User opens **MoMoney App** → taps **“Scan QR”**.
+6. Scans the QR code.
+7. Transaction details appear in the app.
+8. User taps **“Accept”**.
+9. Enters **6-digit PIN**.
+10. **E-money is deducted** from wallet.
+11. Payment is completed.
 
-**By Push Notification Method**
+#### &#x20;**Method 2: Push Notification**
 
-1. **Enter Mo Wallet “Ph Number” and “Amount”**: In the Merchant (3rd party) app, enter the Mo wallet phone number and the amount.
-2. **Login and Open Mo Money Wallet**: Log in and open the Mo Money wallet.
-3. **Receive Notification**: A notification will be received from the Mo Money wallet.
-4. **Click “Accept” Button**: Click the “Accept” button to proceed with the payment.
-5. **Enter PIN**: Input your 6-digit PIN in the Mo Money wallet.
-6. **Emoney Deduction**: The e-money will be deducted from your Mo Money wallet.
-
-This process ensures a secure and efficient way to make payments on e-commerce websites using the Mo Money app. If you have any further questions or need additional assistance, feel free to ask!
-
-\
-
-
-This process ensures a secure and efficient way to make payments on e-commerce websites using the Mo Money app.
+1. Merchant enters **MoMoney phone number** and **amount** in their system.
+2. User logs into **MoMoney App**.
+3. Receives **push notification**.
+4. Taps **“Accept”**.
+5. Enters **6-digit PIN**.
+6. **E-money is deducted** from wallet.
+7. Payment is completed.
