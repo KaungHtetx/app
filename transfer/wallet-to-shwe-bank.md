@@ -1,13 +1,9 @@
 ---
-description: >-
-  This feature allows users to transfer money from their Subscriber app wallet
-  to their SHWE Bank account without requiring an OTP (One-Time Password). Below
-  are the steps to complete the bank transfer
----
+
 
 # Wallet to Shwe Bank
 
-### 🏦 Cash Out to SHWE Bank – Subscriber App
+### Cash Out to SHWE Bank – Subscriber App
 
 #### Step-by-Step Guide
 
@@ -38,6 +34,6 @@ description: >-
     * **In-App Notification**: Confirmation message within the app.
     * **SMS Notification**: Sent to the account holder’s registered phone number.
 
-> ✅ This process ensures a secure and efficient way to transfer money from your Subscriber app wallet to your SHWE Bank account — **no OTP verification required**.
+>  This process ensures a secure and efficient way to transfer money from your Subscriber app wallet to your SHWE Bank account — **no OTP verification required**.
 
 \
