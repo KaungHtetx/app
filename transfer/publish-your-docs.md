@@ -14,5 +14,5 @@ Step 2: Subscriber **key-in:**
 Step 3: User click **Next** review transaction information and Fee
 
 Step 4: User **verify transaction** via authentication
-
-After transaction done, Sender will share **Passcode** and **transaction code** to Receiver
+{% hint style="info" %} . 
+After transaction done, Sender will share **Passcode** and **transaction code** to Receiver{% endhint %}
