@@ -1,5 +1,4 @@
 ---
-description: >-
   This feature allows users to add money to their wallet using MPU (Myanmar
   Payment Union). Below are the steps to complete the MPU cash-in process:
 ---
