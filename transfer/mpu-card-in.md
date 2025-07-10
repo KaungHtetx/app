@@ -1,8 +1,7 @@
----
+
   This feature allows users to add money to their wallet using MPU (Myanmar
   Payment Union). Below are the steps to complete the MPU cash-in process:
 ---
-
 # Card to Wallet
 
 1. **Click “Cash in/Out” on the Home Screen**: Open the Subscriber app and click on the "Cash in/Out" option on the home screen.
