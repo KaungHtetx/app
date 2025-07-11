@@ -5,34 +5,83 @@
 
 ### Cash Out to SHWE Bank – Subscriber App
 
-#### Step-by-Step Guide
+{% stepper %}
+{% step %}
+### Login to MoMoney App
+1. Launch the MoMoney application on your device
+2. Enter your registered phone number
+3. Authenticate using your 6-digit PIN
+{% endstep %}
 
-1. **Login to Subscriber App**
-   * Open the Subscriber app and log in with your credentials.
-2. **Go to Cash In/Out Features**
-   * Navigate to the **Cash In/Out** section.
-3. **Choose Cash Out Services**
-   * Select the **Cash Out** option.
-4. **Auto Display SHWE Bank Account**
-   * If your SHWE Bank account is already linked, it will be displayed automatically.
-5. **Choose Amount**
-   * Select from the available options or enter your preferred amount.
-6. **Click ‘Next’ Button**
-   * Tap the **Next** button to proceed.
-7. **Preview Screen**
-   * A preview screen will appear showing the transaction details.
-8. **Click ‘Confirm’ Button**
-   * Tap the **Confirm** button to finalize the transaction.
-9. **Enter PIN**
-   * Input your **6-digit PIN** to authorize the transaction.
-10. **PIN Validation**
-    * **Incorrect PIN**: Transaction fails with an “Invalid PIN” error message.
-    * **Correct PIN**: Transaction completes successfully.
-11. **Transaction Success**
-    * A success screen will be displayed once the PIN is verified.
-12. **Notifications**
-    * **In-App Notification**: Confirmation message within the app.
-    * **SMS Notification**: Sent to the account holder’s registered phone number.
+{% step %}
+### Navigate to Cash Out
+1. From the home screen, select "Cash In/Out"
+2. Choose the "Cash Out" option from the menu
+{% endstep %}
+
+{% step %}
+### Select SHWE Bank Account
+- Your previously linked SHWE Bank account will appear automatically
+- If no account appears:
+  1. Select "Link New Account"
+  2. Choose SHWE Bank from the list
+  3. Enter your account details
+  4. Complete verification
+{% endstep %}
+
+{% step %}
+### Enter Transfer Amount
+- Select from preset amounts or:
+- Manually enter your desired amount
+- Minimum: MMK 1,000
+- Maximum: MMK 5,000,000
+- Tap "Next" to proceed
+{% endstep %}
+
+{% step %}
+### Confirm Transaction Details
+Verify all information:
+- Recipient: SHWE Bank (••••7890)
+- Amount: [Your entered amount]
+- Fee: [If applicable]
+- Total Debit: [Final amount]
+{% endstep %}
+
+{% step %}
+### Authorize with PIN
+1. Tap "Confirm" button
+2. Enter your 6-digit MoMoney PIN
+3. Possible outcomes:
+   - Correct PIN: Transaction processes
+   - Incorrect PIN (3 attempts max):
+     - Attempts 1-2: "Invalid PIN" message
+     - Attempt 3: Temporary account lock
+{% endstep %}
+
+{% step %}
+### Transaction Complete
+Successful transactions will:
+1. Display confirmation with:
+   - Transaction ID
+   - Timestamp
+   - Final amount
+2. Generate receipts:
+   - In-app notification
+   - SMS to registered number
+{% endstep %}
+{% endstepper %}
+
+## Support Information
+- Processing time: Typically instant
+- Customer support: support@momoney.com
+- Hours: 9:00-17:00 (Monday-Friday)
+
+## Troubleshooting
+| Issue | Solution |
+|-------|----------|
+| Account not linked | Verify in "Linked Accounts" section |
+| Insufficient balance | Check wallet balance including fees |
+| Transaction declined | Confirm you haven't exceeded daily limits |
 
 >  This process ensures a secure and efficient way to transfer money from your Subscriber app wallet to your SHWE Bank account — **no OTP verification required**.
 
