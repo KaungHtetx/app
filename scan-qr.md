@@ -4,7 +4,7 @@ description: >-
   the steps to complete a transaction using the Scan QR feature:
 ---
 
-# Scan QR
+### Scan QR
 
 Here's a detailed description of the "Scan QR" feature:
 
