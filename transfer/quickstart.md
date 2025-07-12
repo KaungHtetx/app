@@ -5,7 +5,7 @@ description: >-
   wallet-to-wallet transfer:
 ---
 
-# Wallet to Wallet
+### Wallet to Wallet
 
 {% stepper %}
 {% step %}
